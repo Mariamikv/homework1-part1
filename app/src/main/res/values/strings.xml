@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="sign_up_for_facebook">Sign Up for Facebook</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="facebook_icon_svg">facebook icon svg</string>
+
+    <string name="forgot"> <font color='c4c4c4'>Forgot your login details? </font><b>Get help logging in.</b></string>
+    <string name="sign_up"><font color='c4c4c4'>Don't have an account? </font><b>Sign up.</b></string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="or">OR</string>
+    <string name="log_in_instagram">Log In</string>
+    <string name="phone_number_email_or_username">Phone number, email or username</string>
+    <string name="english">English</string>
+</resources>
